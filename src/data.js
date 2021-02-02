@@ -6,7 +6,7 @@ const reviews = [
       image:
         'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
       text:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, nobis, exercitationem pariatur sint alias repellat porro voluptatum consectetur mollitia suscipit molestias perspiciatis. Inventore ea ducimus laborum ex, hic quaerat officiis aliquam repellendus? Consequuntur nesciunt porro temporibus itaque odit? Itaque dicta similique quisquam neque ad ea quis exercitationem reprehenderit cumque dolor.",
+        "Lorem perspiciatis. Inventore ea ducimus laborum ex, hic quaerat officiis aliquam repellendus? Consequuntur nesciunt porro temporibus itaque odit? Itaque dicta similique quisquam neque ad ea quis exercitationem reprehenderit cumque dolor.",
     },
     {
       id: 2,
