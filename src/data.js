@@ -6,7 +6,7 @@ const reviews = [
       image:
         'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
       text:
-        "I'm baby meggings twee health goth +1. Bicycle rights tumeric chartreuse before they sold out chambray pop-up. Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed four dollar toast everyday carry",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, nobis, exercitationem pariatur sint alias repellat porro voluptatum consectetur mollitia suscipit molestias perspiciatis. Inventore ea ducimus laborum ex, hic quaerat officiis aliquam repellendus? Consequuntur nesciunt porro temporibus itaque odit? Itaque dicta similique quisquam neque ad ea quis exercitationem reprehenderit cumque dolor.",
     },
     {
       id: 2,
@@ -15,7 +15,7 @@ const reviews = [
       image:
         'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883409/person-2_np9x5l.jpg',
       text:
-        'Helvetica artisan kinfolk thundercats lumbersexual blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee enamel pin fashion axe.photo booth jean shorts artisan narwhal.',
+        'exercitationem pariatur sint alias repellat porro voluptatum consectetur mollitia suscipit molestias perspiciatis. Inventore ea ducimus laborum ex, hic quaerat officiis aliquam repellendus? Consequuntur nesciunt porro temporibus itaque odit? Itaque dicta.',
     },
     {
       id: 3,
@@ -24,7 +24,7 @@ const reviews = [
       image:
         'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
       text:
-        'Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa hell of pabst raclette post-ironic jianbing swag.',
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis unde molestiae eius nobis laboriosam, corrupti voluptate cupiditate veniam dolorum animi eveniet recusandae minus molestias. Repudiandae, nesciunt cum. Corrupti repudiandae, obcaecati sint enim vero magnam laudantium?",
     },
     {
       id: 4,
@@ -33,7 +33,7 @@ const reviews = [
       image:
         'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg',
       text:
-        'Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ',
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt rerum sit iste! Doloremque esse, praesentium non eligendi voluptatum amet voluptatem molestiae, ratione dolorum, facilis cupiditate dolores distinctio nesciunt expedita? Saepe ut animi, autem laboriosam facilis doloribus voluptate esse similique expedita maxime, fugit, deleniti nobis vero!",
     },
   ];
   
